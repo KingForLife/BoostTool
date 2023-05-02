@@ -63,6 +63,11 @@ Quickly install the basic files with GIT:
    ```sh
    git clone https://github.com/KingForLife/BoostTool.git
    ```
+   
+For run the project, open cmd in the tool folder and use the command:
+  ```sh
+  py boosting.py
+  ```
 
 
 <!-- LICENSE -->
